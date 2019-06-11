@@ -1,0 +1,22 @@
+{
+  "name": "bdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "cucumber-js features -r steps"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "chai": "^4.2.0",
+    "cucumber": "^5.1.0",
+    "grunt": "^1.0.4",
+    "grunt-cli": "^1.3.2",
+    "grunt-shell": "^3.0.1",
+    "gulp": "^4.0.2",
+    "gulp-shell": "^0.7.1"
+  }
+}

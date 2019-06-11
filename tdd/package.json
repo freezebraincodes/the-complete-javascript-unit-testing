@@ -1,0 +1,16 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "Test Driven Development in Javascript",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
